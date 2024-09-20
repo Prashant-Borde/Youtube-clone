@@ -511,9 +511,9 @@ body{
         flex-direction: row;
         width: 100%;
         justify-content: space-evenly;
-        background-color:cover;
-        align-content: last baseline;
-        margin-top: 210%;
+        /* background-color:cover;
+        align-content: last baseline; */
+        margin-top: 190%;
         backface-visibility: hidden;
         background-color:#fff;
     }    
