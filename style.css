@@ -513,8 +513,9 @@ body{
         justify-content: space-evenly;
         /* background-color:cover;
         align-content: last baseline; */
-        margin-top: 90%;
-        backface-visibility: hidden;
+        margin-top: 210%;
+        /* align-content: flex-end; */
+        /* backface-visibility: hidden; */
         background-color:#fff;
     }    
 
