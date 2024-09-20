@@ -513,11 +513,22 @@ body{
         justify-content: space-evenly;
         /* background-color:cover;
         align-content: last baseline; */
-        margin-top: 210%;
+        margin-top: 211%;
         /* align-content: flex-end; */
         /* backface-visibility: hidden; */
         background-color:#fff;
+        /* justify-content: center ; */
+        padding-bottom: 1rem;
+        padding-top: 2rem;
     }    
+
+.menu img{
+    height: 54px;
+    width: 54px;
+    font-size: 30px; 
+
+    /* padding-bottom: 20px; */
+}
 
 }
 
